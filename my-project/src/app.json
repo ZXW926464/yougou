@@ -9,7 +9,7 @@
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ff2d4a",
     "navigationBarTitleText": "YouGo",
-    "navigationBarTextStyle": "white"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "selectedColor":"#ff2d4a",
